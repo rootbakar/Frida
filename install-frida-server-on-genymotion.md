@@ -4,7 +4,11 @@
 
 * **Download last version release `frida-server` for Android**
 
-  ```wget https://github.com/frida/frida/releases/download/12.11.6/frida-server-12.11.6-android-x86.xz``` or follow this is for other release from frida-server https://github.com/frida/frida/releases
+  ```wget https://github.com/frida/frida/releases/download/12.11.6/frida-server-12.11.6-android-x86.xz``` 
+  
+  or 
+  
+  follow this is for other release from frida-server https://github.com/frida/frida/releases
 
 
 
