@@ -1,3 +1,3 @@
 # Frida
 
-This is repository for Frida Tutorial
+This is Frida Tutorial Repository
