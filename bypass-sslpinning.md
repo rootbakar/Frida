@@ -46,7 +46,7 @@
   <img src="http://cdn-file.progress28.com/ssl-pinning.png" width="500px" height="300px" />    
       
   
-* **Bypass command for running using frida**
+* **Frida command for bypass sslpinning**
 
   ```frida -U -f com.twitter.android -l sslbypass.js --no-pause```
   
