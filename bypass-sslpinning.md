@@ -43,7 +43,7 @@
   [SSL PINNING TWITTER::com.twitter.android]->  
   ```
   
-  <img src=http://cdn-file.progress28.com/ssl-pinning.png width=500px height=300px />    
+  <img src="http://cdn-file.progress28.com/ssl-pinning.png" width="500px" height="300px" />    
       
   
 * **Bypass command for running using frida**
@@ -54,4 +54,4 @@
   
 **NOTE:**<br>
 Please using android `API 24` version `7.0` and install `OPEN GAPSS`<br>
-<img src=http://cdn-file.progress28.com/genymotion.png width=500px height=300px /> 
+<img src="http://cdn-file.progress28.com/genymotion.png" width="500px" height="50px" /> 
