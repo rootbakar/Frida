@@ -29,11 +29,13 @@
   ```adb shell /data/local/tmp/frida-server &```
 <br><br><br>
 * **After all proses working, please check you'r frida client on you'r terminal using command below (first install `frida-tools` on you'r local machine)**
-
-  ```apt install frida-tools```
+  * **Ubuntu**
   
-  ```apt install frida``` 
+  ```pip install frida-tools```
   
+  * **MacOs**
+  
+  ```pip install frida-tools```
   
   **after that, running this command for check if it is working**
   
