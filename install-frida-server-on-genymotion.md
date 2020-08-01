@@ -31,12 +31,12 @@
 * **After all proses working, please check you'r frida client on you'r terminal using command below (first install `frida-tools` on you'r local machine)**
   * **Ubuntu**
   
-  ```pip install frida-tools```
+    ```pip install frida-tools```
   
   * **MacOs**
   
-  ```pip install frida-tools```
+    ```pip install frida-tools```
   
   **after that, running this command for check if it is working**
   
-  ```frida-ps -U```
+    ```frida-ps -U```
