@@ -41,6 +41,6 @@
   
     ```pip install frida-tools```
   
-  **after that, running this command for check if it is working**
+* **after that, running this command for check if it is working**
   
     ```frida-ps -U```
