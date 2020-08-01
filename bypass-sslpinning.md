@@ -1,6 +1,6 @@
 # Tutorial for bypass SSL Pinning
 
-* **Script (filename `sslbypass.js`)**
+* **Script (filename [sslbypass.js](https://github.com/rootbakar/Frida/blob/master/sslbypass.js))**
 
   ```
   /* 
