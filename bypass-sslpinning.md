@@ -2,7 +2,7 @@
 
 * **Script (filename [sslbypass.js](https://github.com/rootbakar/Frida/blob/master/sslbypass.js))**
 
-  ```
+  ```java
   /* 
      Universal Android SSL Pinning Bypass
      by Mattia Vinci and Maurizio Agazzini 
