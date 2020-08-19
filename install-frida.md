@@ -1,4 +1,4 @@
-# Install frida server on ndroid Genymotion
+# Install frida server on ndroid Genymotion (check kernel `adb shell getprop ro.product.cpu.abi`)
 
 
 
