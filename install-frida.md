@@ -4,7 +4,7 @@
 
 * **Download last version release `frida-server` for Android**
 
-  ```wget https://github.com/frida/frida/releases/download/12.11.6/frida-server-12.11.6-android-x86.xz``` 
+  ```wget https://github.com/frida/frida/releases/download/12.11.4/frida-server-12.11.6-android-x86.xz``` 
   
   or 
   
