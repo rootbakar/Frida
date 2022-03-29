@@ -25,7 +25,7 @@
 
 * **Give file permission for execute `frida-server` file on android genymotion**
 
-  ```adb shell chmod 755 /data/local/tmp/frida-server``` 
+  ```adb shell chmod 777 /data/local/tmp/frida-server``` 
   
   
 * **Running `frida-server` using command below**
