@@ -4,7 +4,7 @@
 
 * **Download last version release `frida-server` for Android**
 
-  ```wget https://github.com/frida/frida/releases/download/12.11.4/frida-server-12.11.6-android-x86.xz``` 
+  ```wget https://github.com/frida/frida/releases/download/15.1.17/frida-server-15.1.17-android-x86.xz``` 
   
   or 
   
@@ -14,13 +14,13 @@
 
 * **After download success, please extrack `frida-server` file using command below**
 
-  ```xz -d frida-server-12.11.4-android-x86.xz```
+  ```xz -d frida-server-15.1.17-android-x86.xz```
 
 
 
 * **Push `frida-server` file into android genymotion**
 
-  ```adb push frida-server-12.11.4-android-x86 /data/local/tmp/frida-server``` 
+  ```adb push frida-server-15.1.17-android-x86 /data/local/tmp/frida-server``` 
 
 
 * **Give file permission for execute `frida-server` file on android genymotion**
