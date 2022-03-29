@@ -4,7 +4,7 @@
 
 * **upload frida-server file into android genymotion**
 
-  ```adb push frida-server-12.11.4-android-x86 /data/local/tmp/frida-server```
+  ```adb push frida-server-15.1.17-android-x86 /data/local/tmp/frida-server```
 
 
 
